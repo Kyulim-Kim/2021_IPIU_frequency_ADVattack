@@ -1,6 +1,6 @@
 # 주파수 영역의 적대적 공격에 따른 공격 성공률과 이미지 품질 비교 (IPIU 2021)
 <p align='center'>
-  <img src='image/overview.png' width='400'/>
+  <img src='image/result.PNG' width='600'/>
 </p>
 
 ## 요약
